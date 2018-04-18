@@ -1,0 +1,8 @@
+.create-page-content {
+  padding: 20px; }
+  .create-page-content .save {
+    margin-left: 10px; }
+  .create-page-content .story-field {
+    width: 500px;
+    height: 200px;
+    resize: none; }

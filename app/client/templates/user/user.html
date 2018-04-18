@@ -1,0 +1,57 @@
+<div class="content">
+    <header>
+        <div class="title-header">
+            <h1>All tasks</h1>
+            <button type="button" class="btn btn-info btn-admin" ui-sref="admin" ng-if="!vm.isAdmin">Login as admin
+            </button>
+            <button type="button" class="btn btn-info btn-logout" ng-if="vm.isAdmin" ng-click="vm.logout()">Logout
+            </button>
+            <button type="button" class="btn btn-info btn-new-task" ng-click="vm.createEditTask(event)">Create new task</button>
+        </div>
+    </header>
+    <main class="content-main">
+        <table class="table table-bordered table-striped">
+            <thead>
+            <tr>
+                <th>Image</th>
+                <th>User Name <span class="glyphicon glyphicon-arrow-down arrows"
+                                    ng-click="vm.getSortedTasks('username','asc')"></span>
+                    <span class="glyphicon glyphicon-arrow-up arrows"
+                          ng-click="vm.getSortedTasks('username','desc')"></span></th>
+                <th>Email <span class="glyphicon glyphicon-arrow-down arrows"
+                                ng-click="vm.getSortedTasks('email','asc')"></span> <span
+                        class="glyphicon glyphicon-arrow-up arrows" ng-click="vm.getSortedTasks('email','desc')"></span>
+                </th>
+                <th>Text</th>
+                <th>Status <span class="glyphicon glyphicon-arrow-down arrows"
+                                 ng-click="vm.getSortedTasks('status','asc')"></span> <span
+                        class="glyphicon glyphicon-arrow-up arrows"
+                        ng-click="vm.getSortedTasks('status','desc')"></span></th>
+                <th ng-if="vm.isAdmin">Edit</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="task in vm.taskData">
+                <td>
+                    <img ng-src="{{task.image_path}}" alt="File preview" class="pull-left">
+                </td>
+                <td>{{task.username}}</td>
+                <td>{{task.email}}</td>
+                <td>{{task.text}}</td>
+                <td>{{task.status}}</td>
+                <td ng-if="vm.isAdmin"> <span class="glyphicon glyphicon-pencil edit" ng-click="vm.createEditTask(event,task,'edit')">
+                    <md-tooltip md-direction="top">
+                        Edit
+                    </md-tooltip>
+                </span></td>
+            </tr>
+            </tbody>
+        </table>
+    </main>
+    <footer>
+        <ul class="pagination">
+            <li ng-repeat="page in vm.pagesCount track by $index" ng-click="vm.getMorePages($index+1)"><a href="#">{{$index+1}}</a>
+            </li>
+        </ul>
+    </footer>
+</div>

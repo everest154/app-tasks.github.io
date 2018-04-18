@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd0497a5-aa3e-4396-a4a6-0b77d24147d7" name="Default" comment="fixed edit request">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/build.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/dayside.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/dayside.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jquery.ui.plupload.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree.storage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/application.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/code.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/db.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/doc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/film.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/flash.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/folder_open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/html.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/java.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/linux.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/pdf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/php.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/project.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/psd.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/ruby.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/script.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/spinner.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/icons/txt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/jquery.cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/jquery.jstree.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/apple/bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/apple/d.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/apple/dot_for_ie.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/classic/dot_for_ie.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default-rtl/d.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default-rtl/d.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default-rtl/dots.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default-rtl/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default-rtl/throbber.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default/d-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default/d.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/jstree/themes/default/d.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/bundleInfo.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/nls.metadata.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/base/worker/workerMain.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/bat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/coffee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/csharp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/dockerfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/go.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/jade.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/less.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/markdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/php.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/powershell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/razor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/ruby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/scss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/sql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/swift.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/xml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/basic-languages/src/yaml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/contrib/quickOpen/browser/symbol-sprite.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/contrib/suggest/browser/String_16x.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/contrib/suggest/browser/String_inverse_16x.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.ko.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/editor/editor.main.nls.ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/language/css/cssMode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/language/html/htmlWorker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/language/json/jsonMode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/language/json/jsonWorker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/language/typescript/lib/typescriptServices.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/language/typescript/src/mode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/loader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/dev/vs/loader.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/base/worker/workerMain.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/bat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/coffee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/cpp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/csharp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/java.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/less.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/markdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/php.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/postiats.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/powershell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/python.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/r.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/razor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/ruby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/sql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/swift.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/vb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/xml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/basic-languages/src/yaml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/contrib/quickOpen/browser/symbol-sprite.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/contrib/suggest/browser/String_16x.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/contrib/suggest/browser/String_inverse_16x.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.ko.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/editor/editor.main.nls.zh-tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/language/css/cssMode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/language/css/cssWorker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/language/html/htmlMode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/language/json/jsonMode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/language/typescript/lib/typescriptServices.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/language/typescript/src/worker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/monaco/min/vs/loader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/plupload.full.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/require.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/theme/background.tea" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/theme/dark_ui.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/makefile.tea" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/src/controls/codeTab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/src/controls/editorPanel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/src/controls/optionsButton.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/src/controls/searchDialog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/src/fileApi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/src/style.tea" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/branch_remover/api.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/branch_remover/demo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/branch_remover/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/api.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/demo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/FirebaseToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/JWT.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/RTCMultiConnection.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/addon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/firepad.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/firepad_original.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/collaborate/lib/meeting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/console/console.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/console/console.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/git_commit/git_commit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/git_commit/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/git_commit/lib/controller.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/git_commit/lib/template.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/node_runner/node_runner.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/node_runner/nodeapp/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/pixlr/test.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/SocketServer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/Exception/ExceptionInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/Exception/InvalidArgumentException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/Exception/LogicException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessTimedOutException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/Exception/RuntimeException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/PhpProcess.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/Process.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/ProcessBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/ProcessPipes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/Symfony/Component/Process/ProcessUtils.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/server.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/realtime/server/server.pid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/tracker/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/tracker/tracker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/plugins/video_chat/video_chat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/index.tea" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/colorpicker_hex.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/colorpicker_hsb_s.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/colorpicker_rgb_a.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/colorpicker_rgb_g.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/colorpicker_select.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/colorpicker_submit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/teacss_ui_icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/teacss-ui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/teacss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/assets/teacss/teacss.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/demo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/server/lib/Daemon_fork.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/dayside-master/dayside-master/todo.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/index.html" afterPath="$PROJECT_DIR$/app/client/index.html" />
+      <change beforePath="$PROJECT_DIR$/app/client/modals/edit-create.task.controller.js" afterPath="$PROJECT_DIR$/app/client/modals/edit-create.task.controller.js" />
+      <change beforePath="$PROJECT_DIR$/app/client/services/auth.service.js" afterPath="$PROJECT_DIR$/app/client/services/auth.service.js" />
+      <change beforePath="$PROJECT_DIR$/app/client/services/tasks-service.js" afterPath="$PROJECT_DIR$/app/client/services/tasks-service.js" />
+      <change beforePath="$PROJECT_DIR$/app/client/templates/user/user.controller.js" afterPath="$PROJECT_DIR$/app/client/templates/user/user.controller.js" />
+      <change beforePath="$PROJECT_DIR$/build/app.js" afterPath="$PROJECT_DIR$/build/app.js" />
+      <change beforePath="$PROJECT_DIR$/build/templates.js" afterPath="$PROJECT_DIR$/build/templates.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tasks-service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/services/tasks-service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit-create.task.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/modals/edit-create.task.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit-create.task.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/modals/edit-create.task.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/templates/admin/admin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interceptor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/factories/interceptor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/services/auth.service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.controller.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/client/templates/user/user.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="74" column="31" lean-forward="true" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/client/templates/user/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>angular</find>
+      <find>mdDialog</find>
+      <find>n</find>
+      <find>back</find>
+      <find>main</find>
+      <find>Ok</find>
+      <find>upload</find>
+      <find>addedTask</find>
+      <find>createEditTask</find>
+      <find>edit</find>
+      <find>&quot;</find>
+      <find>EditCreateTask</find>
+      <find>isDone</find>
+      <find>editTask</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/client/templates/admin/user.controller.js" />
+        <option value="$PROJECT_DIR$/app/client/templates/admin/user.module.js" />
+        <option value="$PROJECT_DIR$/app/client/scss/styles.scss" />
+        <option value="$PROJECT_DIR$/app/client/templates/user/user.scss" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/app/client/modals/create-page.scss" />
+        <option value="$PROJECT_DIR$/app/client/templates/admin/admin.scss" />
+        <option value="$PROJECT_DIR$/app/client/templates/admin/admin.html" />
+        <option value="$PROJECT_DIR$/app/client/modals/create-page.html" />
+        <option value="$PROJECT_DIR$/app/client/modals/create-page.controller.js" />
+        <option value="$PROJECT_DIR$/app/client/templates/admin/admin.controller.js" />
+        <option value="$PROJECT_DIR$/app/client/services/pages-service.js" />
+        <option value="$PROJECT_DIR$/app/client/factories/urlRequest.js" />
+        <option value="$PROJECT_DIR$/app/client/modals/edit-create.task.scss" />
+        <option value="$PROJECT_DIR$/app/client/templates/user/user.html" />
+        <option value="$PROJECT_DIR$/app/client/modals/edit-create.task.html" />
+        <option value="$PROJECT_DIR$/app/client/index.scss" />
+        <option value="$PROJECT_DIR$/app/client/factories/interceptor.js" />
+        <option value="$PROJECT_DIR$/app/client/app.module.js" />
+        <option value="$PROJECT_DIR$/app/client/core/config.js" />
+        <option value="$PROJECT_DIR$/app/client/index.html" />
+        <option value="$PROJECT_DIR$/app/client/services/tasks-service.js" />
+        <option value="$PROJECT_DIR$/app/client/services/auth.service.js" />
+        <option value="$PROJECT_DIR$/app/client/modals/edit-create.task.controller.js" />
+        <option value="$PROJECT_DIR$/app/client/templates/user/user.controller.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/bower" />
+    <bower.json value="$PROJECT_DIR$/bower.json" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1614" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="client" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="client" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="client" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="E:\Ncube\Gulp-server-angularjs\gulp-modules-master\node_modules\jscs" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\app\app\client" />
+      <recent name="E:\Ncube\Gulp-server-angularjs\gulp-modules-master\app\client\templates\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd0497a5-aa3e-4396-a4a6-0b77d24147d7" name="Default" comment="" />
+      <created>1522773367883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522773367883</updated>
+      <workItem from="1522773370251" duration="11960000" />
+      <workItem from="1522822850121" duration="9882000" />
+      <workItem from="1523723950496" duration="10422000" />
+      <workItem from="1523801687545" duration="14725000" />
+      <workItem from="1523821430495" duration="65000" />
+      <workItem from="1523822156831" duration="5328000" />
+      <workItem from="1523864107891" duration="133000" />
+      <workItem from="1524043497323" duration="9262000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed edit request">
+      <created>1524054819336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524054819336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5154242" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.48457584" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27249357" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed edit request" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed edit request" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/client/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/content/css/scss/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/content/css/templates/admin/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/content/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Projects/javascript-invoices/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="96" lean-forward="true" selection-start-line="11" selection-start-column="96" selection-end-line="11" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Projects/Skore/skore_front_end/client/app/templates/workspace/admin/workspace/workspace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Mathematic-app/mobileapp/www/views/auth/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Mathematic-app/mobileapp/www/views/auth/registration/registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Projects/Skore/skore_front_end/client/app/components/modals/select-palette-logo/select-palette.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/modals/create-page.scss" />
+    <entry file="file://$PROJECT_DIR$/app/client/templates/admin/admin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/modals/create-page.controller.js" />
+    <entry file="file://$PROJECT_DIR$/app/client/modals/create-page.html" />
+    <entry file="file://$PROJECT_DIR$/app/client/services/pages-service.js" />
+    <entry file="file://$PROJECT_DIR$/app/client/templates/user/user.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/templates/admin/admin.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/templates/admin/admin.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/modals/edit-create.task.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/factories/urlRequest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/templates/admin/auth/auth-admin.html" />
+    <entry file="file://$PROJECT_DIR$/app/client/templates/admin/auth/auth-admin.controller.js" />
+    <entry file="file://$PROJECT_DIR$/app/client/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Projects/javascript-invoices/public/core/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/core/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/BeeJee/app.tasks/app/app/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayside-master/dayside-master/index.php" />
+    <entry file="file://$PROJECT_DIR$/build/content/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/content/css/vendor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayside-master/dayside-master/client/dayside.js" />
+    <entry file="file://$PROJECT_DIR$/dayside-master/dayside-master/client/build.php" />
+    <entry file="file://$PROJECT_DIR$/app/client/dayside-master/dayside-master/client/lib/theme/dark_ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/dayside-master/dayside-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/dayside-master/dayside-master/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/dayside-master/dayside-master/todo_menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="76" column="17" lean-forward="false" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/factories/interceptor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/templates/admin/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/services/tasks-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/services/auth.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/templates/user/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/modals/edit-create.task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/modals/edit-create.task.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/templates/user/user.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="74" column="31" lean-forward="true" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

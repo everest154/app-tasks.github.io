@@ -1,0 +1,40 @@
+.admin-content {
+  width: 40%;
+  margin: 0 auto;
+  padding: 50px;
+  border: 1px solid #000;
+  position: relative; }
+  .admin-content .back {
+    position: absolute; }
+  .admin-content .header-info {
+    height: 150px;
+    line-height: 150px;
+    margin-top: 25px; }
+  .admin-content .story-field {
+    height: 100px;
+    width: 500px;
+    resize: none; }
+  .admin-content .page {
+    position: relative;
+    margin-top: 40px; }
+  .admin-content .main-content .edit, .admin-content .main-content .delete {
+    position: absolute;
+    top: 50%;
+    margin-top: -16px; }
+  .admin-content .main-content .edot {
+    margin-left: 10px; }
+  .admin-content .main-content .delete {
+    margin-left: 50px; }
+  .admin-content .main-content .title {
+    width: 30%; }
+    .admin-content .main-content .title span {
+      color: #fff;
+      margin-right: 5px; }
+    .admin-content .main-content .title p {
+      text-align: left;
+      font-size: 20px; }
+  .admin-content .main-content p {
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: center;
+    color: #fff; }

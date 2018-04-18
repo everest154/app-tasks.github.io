@@ -1,0 +1,43 @@
+<md-dialog flex="40" class="edit-create-task">
+    <form name="vm.myForm" ng-submit="vm.actionTask()">
+        <md-toolbar>
+            <div class="md-toolbar-tools">
+                <h2 ng-if="vm.task">Edit task</h2>
+                <h2 ng-if="!vm.task">Create task</h2>
+            </div>
+        </md-toolbar>
+        <md-dialog-content layout-padding="20">
+            <md-input-container class="md-block">
+                <label for="username">Username</label>
+                <input class="username" id="username" ng-value="vm.task.username" ng-model="vm.taskData.username"
+                       ng-disabled="vm.task">
+            </md-input-container>
+            <md-input-container class="md-block">
+                <label for="email">Email</label>
+                <input class="email" id="email" ng-value="vm.task.email" ng-model="vm.taskData.email"
+                       ng-disabled="vm.task">
+            </md-input-container>
+            <md-checkbox ng-model="vm.isDone" ng-if="vm.type === 'edit'">Done:</md-checkbox>
+            <label class="text-label" for="text">text</label>
+            <textarea class="text" ng-value="vm.task.text" id="text" name="text" ng-model="vm.taskData.text">
+        </textarea>
+            <div class="content-logo" flow-init
+                 flow-file-added="vm.uploadFile($file, $event, $flow)">
+                <h3 ng-if="!vm.task">Upload photo</h3>
+                <h3 ng-if="vm.task">Photo</h3>
+                <img class="preview" flow-img="vm.currentImage" ng-src="{{vm.task.image_path}}">
+                <md-button flow-btn class="md-raised md-primary" ng-if="!vm.task">Upload file</md-button>
+            </div>
+        </md-dialog-content>
+        <md-dialog-actions layout="row">
+            <span flex></span>
+            <md-button ng-click="vm.cancel()">
+                Cancel
+            </md-button>
+            <md-button class="md-raised md-primary"
+                       ng-click="vm.actionTask()">
+                Ok
+            </md-button>
+        </md-dialog-actions>
+    </form>
+</md-dialog>

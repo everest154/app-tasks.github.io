@@ -1,0 +1,54 @@
+.admin-content {
+  width: 40%;
+  margin: 0 auto;
+  padding: 50px;
+  border: 1px solid #000;
+  position: relative;
+  .back {
+    position: absolute;
+  }
+  .header-info {
+    height: 150px;
+    line-height: 150px;
+    margin-top: 25px;
+  }
+  .story-field {
+    height: 100px;
+    width: 500px;
+    resize: none;
+  }
+  .page {
+    position: relative;
+    margin-top: 40px;
+  }
+  .main-content {
+    .edit,.delete {
+      position: absolute;
+      top: 50%;
+      margin-top: -16px;
+    }
+    .edot {
+      margin-left: 10px;
+    }
+    .delete {
+      margin-left: 50px;
+    }
+    .title {
+      width: 30%;
+      span {
+        color: #fff;
+        margin-right: 5px;
+      }
+       p {
+         text-align: left;
+         font-size: 20px;
+       }
+    }
+    p {
+      font-size: 15px;
+      margin-top: 20px;
+      text-align: center;
+      color: #fff;
+    }
+  }
+}

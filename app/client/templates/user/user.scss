@@ -1,0 +1,36 @@
+.content {
+  .title-header {
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    position: relative;
+    h1 {
+      margin: 0;
+      line-height: 200px;
+    }
+    .btn-admin, .btn-logout {
+      position: absolute;
+      left: 0;
+      bottom: 20px;
+    }
+    .btn-new-task {
+      position: absolute;
+      right: 0;
+      bottom: 20px;
+    }
+  }
+  .edit {
+    font-size: 25px;
+    cursor: pointer;
+  }
+  .info-user {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  .content-main {
+    .arrows {
+      cursor: pointer;
+    }
+  }
+}

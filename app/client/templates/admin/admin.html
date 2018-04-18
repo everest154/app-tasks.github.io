@@ -1,0 +1,39 @@
+<div class="admin-content">
+    <main>
+        <form name="vm.form"
+              novalidate
+              autocomplete="off"
+              ng-submit="vm.auth()">
+            <div layout="column" layout-align="center center">
+                <md-input-container>
+                    <label>Login</label>
+                    <input name="login"
+                           ng-model="vm.loginData.login"
+                           md-maxlength="255"
+                           maxlength="255"
+                           required>
+                    <div ng-messages="vm.form.login.$error">
+                        <div ng-message="required">This is required.</div>
+                    </div>
+                </md-input-container>
+                <md-input-container>
+                    <label>Password</label>
+                    <input name="password"
+                           type="password"
+                           ng-model="vm.loginData.password"
+                           md-maxlength="255"
+                           maxlength="255"
+                           required>
+                    <div ng-messages="vm.form.password.$error">
+                        <div ng-message="required">This is required.</div>
+                    </div>
+                </md-input-container>
+            </div>
+            <div layout="row" layout-align="end center">
+                <md-button class="md-raised md-primary" type="submit">
+                    Login
+                </md-button>
+            </div>
+        </form>
+    </main>
+</div>

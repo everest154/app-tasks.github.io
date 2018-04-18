@@ -1,0 +1,11 @@
+.edit-create-task .text {
+  resize: none;
+  width: 80%;
+  height: 150px; }
+
+.edit-create-task .text-label {
+  display: block; }
+
+.edit-create-task .preview {
+  max-width: 320px;
+  max-height: 240px; }

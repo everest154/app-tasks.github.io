@@ -1,0 +1,11 @@
+@import "./scss/styles";
+@import "./templates/admin/admin.scss";
+@import "./templates/user/user.scss";
+@import "./modals/edit-create.task.scss";
+
+body, html {
+  height: auto;
+  position: unset;
+  background-color: unset;
+}
+
